@@ -1,8 +1,7 @@
 # Assignment 2 — Python Programming for Artificial Intelligence
 
-**Student name:** ____________________  
-**Roll number:** ____________________  
-**Course / section:** ____________________
+**Student name:** Nalabala Aruneswar Reddy 
+**Roll number:** B240990EC
 
 ## 1. Objective
 
